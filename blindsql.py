@@ -60,11 +60,6 @@ def db_identify(http_session, url_target, cookie_value, user_token=None):
 		else:
 			continue
 
-
-
-
-
-
 # Extração de Senha
 def extract_error(db_type, http_session, url_target, cookie_value, user_token=None):
 	charset = 'abcdefghijklmnopqrstuvwxyz1234567890'
@@ -172,4 +167,5 @@ if response.status_code == 200:
 		extract_time(db_name, http_session, url_target, cookie_value, user_token)
 else:
 	print("\033[31m[!] Error, conection not established.\033[0m")
+
 
