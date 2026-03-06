@@ -1,6 +1,5 @@
-# Blind-SQL | Error-Based & Time-Based
+# Blind-SQL | Error-Based & Time-Based | PortSwigger Lab's
 > ⚠️ For Educational and Ethical Use Only
-# BlindSQLi Tool – PortSwigger Labs
 
 Ferramenta desenvolvida em Python para identificação e exploração de Blind SQL Injection utilizando técnicas Error-Based e Time-Based.
 O objetivo da ferramenta é automatizar testes em alguns laboratórios da PortSwigger, auxiliando estudantes de segurança ofensiva a entender como ataques de Blind SQL Injection funcionam na prática.
