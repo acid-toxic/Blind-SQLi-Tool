@@ -68,7 +68,7 @@ Após identificar:
 - Tipo de banco de dados
 - Tipo de vulnerabilidade
 
-A ferramenta tenta extrair informações da base de dados utilizando técnicas de Blind SQL Injection, realizando consultas caractere por caractere.
+A ferramenta tenta extrair informações da base de dados (senha do administrator) utilizando técnicas de Blind SQL Injection, realizando consultas caractere por caractere.
 
 ---
 
