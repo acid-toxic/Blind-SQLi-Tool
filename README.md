@@ -4,7 +4,7 @@
 Ferramenta desenvolvida em Python para identificação e exploração de Blind SQL Injection utilizando técnicas Error-Based e Time-Based.
 O objetivo da ferramenta é automatizar testes em alguns laboratórios da PortSwigger, auxiliando estudantes de segurança ofensiva a entender como ataques de Blind SQL Injection funcionam na prática.
 
-| Aviso Importante
+> Aviso Importante
 
 Esta ferramenta foi criada exclusivamente para fins educacionais e éticos.
 Destinada apenas para uso em ambientes de laboratório, especificamente em alguns labs da PortSwigger Web Security Academy.
