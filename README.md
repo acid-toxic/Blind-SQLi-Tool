@@ -77,7 +77,7 @@ A ferramenta tenta extrair informações da base de dados (senha do administrato
 Clone o repositório:
 
 ```bash
-git clone https://github.com/acid-toxic/blindsqli-tool
+git clone https://github.com/acid-toxic/Blind-SQLi-Tool
 ```
 
 Entre no diretório:
