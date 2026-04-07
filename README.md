@@ -83,7 +83,7 @@ git clone https://github.com/acid-toxic/Blind-SQLi-Tool
 Entre no diretório:
 
 ```bash
-cd blindsqli-tool
+cd Blind-SQLi-Tool
 ```
 
 Instale as dependências:
@@ -97,7 +97,7 @@ pip install requests
 ## 🚀 Uso
 
 ```bash
-python tool.py -u <URL> -c <COOKIE_VULNERAVEL> -s <SESSION_TOKEN>
+python blindsql.py -u <URL> -c <COOKIE_VULNERAVEL> -s <SESSION_TOKEN>
 ```
 
 ---
